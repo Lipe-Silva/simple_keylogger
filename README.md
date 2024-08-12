@@ -4,5 +4,4 @@ Here's python code for a simple keylogger
 this is only for learning purposes! Our Lord and Saviour said it best:
 
 "Dont be bad"
-    
-    -Jesus Christ
+    _Jesus Christ_
