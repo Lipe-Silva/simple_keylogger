@@ -1,7 +1,7 @@
 Here's python code for a simple keylogger
 
-# DISCLAIMER:
+## DISCLAIMER:
 this is only for learning purposes! Our Lord and Saviour said it best:
 
-"Dont be bad"
-    _Jesus Christ_
+> "don't be bad"
+> _- Jesus_
